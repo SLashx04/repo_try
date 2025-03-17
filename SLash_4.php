@@ -1,3 +1,5 @@
+<?php
+
 // user_input.php
 
 /**
